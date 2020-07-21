@@ -20,9 +20,12 @@ Clone the repository into your compter
 
 Get into the file
 
+Open the app through the text editor
+
 Create and activate a virtual environment 
 
 Make installations of flask and other packages
+
 
 ## Technologies used
 
