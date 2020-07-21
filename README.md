@@ -14,6 +14,8 @@ Postgresql installation
 
 SQLAlchemy installation
 
+## installation 
+
 ## Technologies used
 
 Python
@@ -21,6 +23,8 @@ Python
 HTML,CSS
 
 Flask
+
+Bootstrap
 
 
 
