@@ -20,7 +20,7 @@ Clone the repository into your compter
 
 Get into the file
 
-
+Create a virtual environment
 
 ## Technologies used
 
