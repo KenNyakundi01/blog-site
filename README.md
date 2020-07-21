@@ -15,7 +15,8 @@ Postgresql installation
 SQLAlchemy installation
 
 ## How to set-up
-S
+
+Clone the repository into your compter
 
 ## Technologies used
 
