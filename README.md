@@ -22,6 +22,8 @@ Get into the file
 
 Create and activate a virtual environment 
 
+Make installations of flask and other packages
+
 ## Technologies used
 
 Python
