@@ -18,6 +18,8 @@ SQLAlchemy installation
 
 Clone the repository into your compter
 
+Get into the file
+
 
 
 ## Technologies used
