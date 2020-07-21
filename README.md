@@ -16,4 +16,6 @@ SQLAlchemy installation
 
 ## Technologies used
 
+Python
+
 
