@@ -14,7 +14,8 @@ Postgresql installation
 
 SQLAlchemy installation
 
-## installation 
+## How to set-up
+S
 
 ## Technologies used
 
