@@ -26,6 +26,7 @@ Create and activate a virtual environment
 
 Make installations of flask and other packages
 
+Run the application
 
 ## Technologies used
 
