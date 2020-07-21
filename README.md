@@ -9,3 +9,5 @@ It also displays random quotes
 Python installation
 
 Installation of any code editor
+
+Postgresql instalation
