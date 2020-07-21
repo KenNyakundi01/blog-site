@@ -13,3 +13,5 @@ Installation of any code editor
 Postgresql installation
 
 SQLAlchemy installation
+
+
