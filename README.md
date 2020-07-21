@@ -7,3 +7,5 @@ It also displays random quotes
 ## Prerequisites
 
 Python installation
+
+Installation of any code editor
